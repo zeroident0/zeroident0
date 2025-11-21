@@ -40,7 +40,8 @@ Passionate about backend architecture and cybersecurity best practices.
 
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeroident0&show_icons=true&theme=dark)
+![Commits](https://badges.pufler.dev/commits/zeroident0)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroident0&layout=compact&theme=dark)
 
