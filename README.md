@@ -12,7 +12,7 @@ Passionate about backend architecture and cybersecurity best practices.
 
 ## 🛠 Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,jquery,react,reactnative,nodejs,mysql,mongodb,csharp,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,jquery,react,cs,nodejs,mysql,mongodb,python" />
 </p>
 
 ## 🧰 Tools:
