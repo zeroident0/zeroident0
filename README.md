@@ -1,12 +1,9 @@
-```diff
-+ Welcome to my GitHub Profile
-```
-
 ## About Me:
-Full-Stack Developer specializing in building secure and scalable web applications.
-While I appreciate good design, my primary focus is on creating robust, well-defended systems.
-Passionate about backend architecture and cybersecurity best practices.
-
+```diff
++ Full-Stack Developer specializing in building secure and scalable web applications.
++ While I appreciate good design, my primary focus is on creating robust, well-defended systems.
++ Passionate about backend architecture and cybersecurity best practices.
+```
 ## 📱 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saif_eldeen06/)
 
