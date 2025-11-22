@@ -18,14 +18,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,jquery,react,cs,nodejs,python" />
 </p>
 
-## - Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
 ## - Tools:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=firebase,supabase,unity,vscode,postman,git,docker" />
+</p>
+
+## - Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 
