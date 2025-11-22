@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/saif_eldeen06/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/saif-eldeen-273692253/)">
+  <a href="https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/saif-eldeen-273692253/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
